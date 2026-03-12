@@ -2,6 +2,32 @@
 
 <!--
 **Domainp/Domainp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Domainp 👋
+
+### 🛠 Cybersecurity & Network Enthusiast
+I’m currently focused on building secure network environments and exploring the world of ethical hacking. I enjoy setting up complex virtual labs to test connectivity and security protocols.
+
+---
+
+### 🚀 What I'm working on
+- **Foundations_Lab_Final**: A comprehensive networking lab involving multi-VM configurations.
+- **Network-Analyzer**: Developing Python-based tools to inspect traffic and packets.
+- **Virtual Lab Environments**: Configuring NAT networks and bridging Linux distributions (Kali, Mint, Ubuntu).
+
+### 🧰 Tech Stack
+- **OS:** Linux (Kali, Ubuntu, Mint), Windows
+- **Networking:** VirtualBox (NAT/Internal Networking), TCP/IP, Packet Analysis
+- **Languages:** Python, Shell Scripting, Markdown
+- **Tools:** Git/GitHub, Virtual Machines
+
+### 📈 GitHub Stats
+![Domainp's GitHub stats](https://github-readme-stats.vercel.app/api?username=Domainp&show_icons=true&theme=dark)
+
+---
+
+### 📫 Connect with me
+- **GitHub:** [Domainp](https://github.com/Domainp)
+- **Linkedin:** (HTTPS://https://www.linkedin.com/in/sean-valdes-a84572342/)
 
 
 
