@@ -1,5 +1,10 @@
 <img width="2770" height="1536" alt="Gemini_Generated_Image_7huq4d7huq4d7huq" src="https://github.com/user-attachments/assets/1879a5bf-02ef-4f90-8d6b-40f9806c9e17" />
+![Cybersecurity Header](PASTE_YOUR_IMAGE_LINK_OR_FILE_NAME_HERE)
 
+## Welcome to my Profile! 🚀
+
+I am a Cybersecurity student focused on **Network Analysis** and **Virtualization**. 
+This profile showcases my latest lab work and automation scripts.
 
 
 # Hi there, I'm Domainp 👋
