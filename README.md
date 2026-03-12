@@ -1,5 +1,5 @@
 
-![Cybersecurity Header](<p align="center"><img src="PASTE_THE_IMAGE_LINK_HERE" width="100%"></p>)
+(<p align="center"><img src="PASTE_THE_IMAGE_LINK_HERE" width="100%"></p>)
 
 # Hi there, I'm Domainp 👋
 ...
